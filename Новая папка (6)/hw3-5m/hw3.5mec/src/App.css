@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+input{
+    margin-left: 730px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+li{
+    text-align: center;
+    margin-top: 20px;
+}
